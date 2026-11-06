@@ -1,0 +1,9 @@
+{
+  "name": "My Calendar",
+  "short_name": "Calendar",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F7F8FC",
+  "theme_color": "#5B8DEF",
+  "description": "Ứng dụng lịch tuần Flutter."
+}
